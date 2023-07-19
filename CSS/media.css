@@ -451,6 +451,7 @@
 }
 
 .burger {
+    margin-right: 40px;
     display: flex;
     --burger-width: 25px;
     --burger-height: 20px;
